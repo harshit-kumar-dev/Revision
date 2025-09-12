@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 practice session
+=======
+Github functions
+>>>>>>> 51e813a0cc104a69502b2581c278734704731de1
